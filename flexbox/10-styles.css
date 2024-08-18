@@ -363,7 +363,7 @@
 
   .section-hero .section-category {
     color: var(--color-white);
-    text-transform: var(--section-tagline-transform);
+    text-transform: uppercase;
   }
   
   .section-hero .section-title {
